@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Lora:ital,wght@0,400..700;1,400..700&family=Meow+Script&family=Oswald:wght@200..700&family=Space+Grotesk:wght@300..700&display=swap');
+
+@import "tailwindcss";
+
+/* Font definitions */
+.font-dmSerifDisplay {
+  font-family: 'DM Serif Display', serif;
+}
+
+.font-lora {
+  font-family: 'Lora', serif;
+}
+
+.font-meowScript {
+  font-family: 'Meow Script', cursive;
+}
+
+.font-oswald {
+  font-family: 'Oswald', sans-serif;
+}
+
+.font-spaceGrotesk {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+
+
