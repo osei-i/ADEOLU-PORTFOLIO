@@ -1,16 +1,16 @@
 import React, { useState } from 'react';
 
 // 1. Import all images from your assets folder
-import img0 from "/public/assets/FEBRUARY Calsan.webp";
-import img1 from "/public/assets/Artboard 1.webp";
-import img2 from "/public/assets/Black Grunge Book Cover Mockup Instagram Post.webp";
-import img3 from "/public/assets/Untitled (736 x 1195 px).webp";
-import img4 from "/public/assets/FAKEPASTRIES.webp";
-import img5 from "/public/assets/SUMWAT CREATIVE ELCHAPOS.webp";
-import img6 from "/public/assets/ADR Executive CounciL 1ADRRRRRRRRRRRRRRR.webp";
-import img7 from "/public/assets/Legal Tag.webp";
-import img8 from "/public/assets/Maaagaaa.jpeg.webp";
-import img9 from "/public/assets/Calsan Executives.webp";
+import img0 from "/assets/FEBRUARY Calsan.webp";
+import img1 from "/assets/Artboard 1.webp";
+import img2 from "/assets/Black Grunge Book Cover Mockup Instagram Post.webp";
+import img3 from "/assets/Untitled (736 x 1195 px).webp";
+import img4 from "/assets/FAKEPASTRIES.webp";
+import img5 from "/assets/SUMWAT CREATIVE ELCHAPOS.webp";
+import img6 from "/assets/ADR Executive CounciL 1ADRRRRRRRRRRRRRRR.webp";
+import img7 from "/assets/Legal Tag.webp";
+import img8 from "/assets/Maaagaaa.jpeg.webp";
+import img9 from "/assets/Calsan Executives.webp";
 
 const images = [img0, img1, img2, img3, img4, img5, img6, img7, img8, img9];
 
