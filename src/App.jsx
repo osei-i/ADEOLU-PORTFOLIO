@@ -1,8 +1,8 @@
 import React from 'react'
-import bgImage from './assets/IMG_8449.PNG';
-import myImage from './assets/424fccdc10a257f8930eedb9f1f74980_0_1757756133_5243.png';
-import portFolio from './assets/porfolio bg.png';
-import aboutImage from './assets/me.png'
+import bgImage from '/public/assets/IMG_8449.webp';
+import myImage from '/public/assets/424fccdc10a257f8930eedb9f1f74980_0_1757756133_5243.webp';
+import portFolio from '/public/assets/porfolio bg.webp';
+import aboutImage from '/public/assets/me.webp'
 import ImgCard from './components/ImgCard';
 
 
